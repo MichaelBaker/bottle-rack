@@ -70,10 +70,29 @@ Three skinny shelves stacked three deep which slide on a track.
 Pros:
 
 * Can make more use of depth
-* Can be made lower, which means you can have a top surface to put weird bottles and tools on
+* Can be made lower, which means you can have a top surface
+* The top surface gives this all of the benefits of a bar cart
 
 Cons:
 
 * Bottles will be somewhat obscured while it's closed
 * Requires either counter balancing or some kind of casters to hold the weight of the bottles
 * Bottles might rattle unless the track is very smooth
+* Requires you to allocate floor space for the expanded mode
+
+### Butterfly Shelf
+
+Three skinny shelves deep. The back shelf is static. The front two are fused together, but split in the middle so they fold out like french doors.
+
+Pros:
+
+* Probably easier to deal with balance than with the sliding shelves
+* Good use of depth
+* Could utilize tilted shelving on the back shelf
+
+Cons:
+
+* The split in the shelves might make it harder to store some bottles
+* Bottles might rattle depending on the mechanics
+* Back bottles will be obscured somewhat
+* Need to allocate floor space to swing out the front shelves

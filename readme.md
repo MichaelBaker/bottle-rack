@@ -62,3 +62,18 @@ Cons:
 * Some really weird bottles might not fit
 * Might need padding or something to handle oddly shaped bottles
 * Some bottles might be obfuscated a bit
+
+### Sliding Shelf
+
+Three skinny shelves stacked three deep which slide on a track.
+
+Pros:
+
+* Can make more use of depth
+* Can be made lower, which means you can have a top surface to put weird bottles and tools on
+
+Cons:
+
+* Bottles will be somewhat obscured while it's closed
+* Requires either counter balancing or some kind of casters to hold the weight of the bottles
+* Bottles might rattle unless the track is very smooth

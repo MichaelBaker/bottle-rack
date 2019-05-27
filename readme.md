@@ -46,3 +46,19 @@ Cons:
 * You can't trade off floor space for wall space
 * You might start to look like a psychopath if a huge portion of your livingroom wall is displaying spirits.
 * There's no top surface for housing really weird bottles or other tools
+
+### Tilted Shelf
+
+This is a shelf, but the bottles lay on their backs so they take up less vertical space.
+
+Pros:
+
+* Better utilization of vertical space
+* No real height limit on bottles
+* No moving parts
+
+Cons:
+
+* Some really weird bottles might not fit
+* Might need padding or something to handle oddly shaped bottles
+* Some bottles might be obfuscated a bit
